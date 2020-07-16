@@ -1,4 +1,4 @@
-Id,Sha,Commit Message,Commited on
+Id,Commit Id,Commit Message,Commited on
 234071231,834843d5307f829103a185e29ea9df0de279bda2,Updated the Index.html,2020-01-15T12:13:41Z
 234071231,b69b1517f299958fc24a3a897890197d7eb74dd5,READMe.md file commited,2020-01-15T12:04:52Z
 234071231,9072be80ea4de086796e72291627b21024e21e13,Initial Commit,2020-01-15T12:03:13Z
@@ -71,6 +71,8 @@ Add Description and Prerequisite",2020-06-30T13:05:11Z
 264248453,2478241f40d1a0233b5975b86a4069048b562fb3,First Commit,2020-05-15T16:51:55Z
 264248453,b8f5133b2c9166756e07d1ef9d5a6f7cf193ec5b,Initial commit,2020-05-15T16:49:14Z
 264248453,33a3f6086ed2ad452578159ee0e40e0e1050d404,Initialize project using Create React App,2020-05-14T17:50:55Z
+278621279,0e173c2baa4b70c84423563e1a2c108050828909,Add: Languages used in Repository,2020-07-16T12:00:47Z
+278621279,2e19ff7ff5a43407d08b9739f8dc5308aff80db3,Insights of Repository,2020-07-16T10:30:21Z
 278621279,df0dcbd290f168129b4f1ffb279bdce3f5c52a98,Get Commit Data for each Repository,2020-07-15T12:52:22Z
 278621279,58057adf3166c47007a03977cddbb4d681d3b0f0,Fix: Reverting the m personal token,2020-07-15T07:05:22Z
 278621279,c53a3c374f7fdb5c5dbe6fe49c2ca665f4cbdce0,Add comment to explain about the token,2020-07-15T07:01:45Z
